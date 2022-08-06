@@ -1,0 +1,44 @@
+4
+CMU
+271234567
+Ta Dinh Tai
+1
+1112352113
+20/10/2003
+9,Lac Long Quan,Lien Chieu,Da Nang
+3
+5
+9
+--------------------------------------------------
+CMU
+271234568
+Le Van K
+1
+1112352113
+20/10/2003
+9,Lac Long Quan,Lien Chieu,Da Nang
+3
+2
+6
+----------------------------------
+CSU
+271234569
+Nguyen Thi B
+1
+1112352113
+20/10/2003
+9,Lac Long Quan,Lien Chieu,Da Nang
+3
+1
+9
+----------------------------------
+PSU
+271234570
+Tran van A
+1
+1112352113
+20/10/2003
+9,Lac Long Quan,Lien Chieu,Da Nang
+3
+1
+2.3
